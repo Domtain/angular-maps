@@ -34,7 +34,7 @@
     "example"
   ],
   "main": [
-    "js/angular-map-it.js"
+    "dist/angular-map-it.js"
   ],
   "repository": {
     "type": "git",
